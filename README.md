@@ -13,7 +13,8 @@
         <img src="https://img.shields.io/github/downloads/RXxsk/rxscrapper/total.svg" width="140">
   <a href="https://rxxsk.github.io/RXScrapper-Page/">
         <img src="https://img.shields.io/badge/RxScrapper-Pro-8A2BE2" width="150"
-  <a href="https://github.com/RXxsk/rxscrapper/stargazers">
+   <a href="">
+ <a href="https://github.com/RXScrapper/RXxsk/stargazers">
         <img src="https://img.shields.io/github/stars/Rxxsk/RXScrapper" width="120">
 </h1>
 
