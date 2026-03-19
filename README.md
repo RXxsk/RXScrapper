@@ -14,7 +14,7 @@
   <a href="https://rxxsk.github.io/RXScrapper-Page/">
         <img src="https://img.shields.io/badge/RxScrapper-Pro-8A2BE2" width="150"
    <a href="">
- <a href="https://github.com/RXScrapper/RXxsk/stargazers">
+ <a href="https://github.com/RXxsk/RXScrapper/stargazers">
         <img src="https://img.shields.io/github/stars/Rxxsk/RXScrapper" width="120">
 </h1>
 
