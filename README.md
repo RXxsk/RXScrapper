@@ -12,18 +12,18 @@
   <a href="https://github.com/Rxxsk/RXscrapper/releases/latest">
         <img src="https://img.shields.io/github/downloads/RXxsk/rxscrapper/total.svg" width="140">
   <a href="https://rxxsk.github.io/RXScrapper-Page/">
-        <img src="https://img.shields.io/badge/RxScrapper-Pro-8A2BE2" width="150">
-  <a href="https://twitter.com/tu-usuario">
-        <img src="https://img.shields.io/badge/-Follow%20us-black?logo=X&logoColor=white" width="100">
+        <img src="https://img.shields.io/badge/RxScrapper-Pro-8A2BE2" width="150"
   <a href="https://github.com/RXxsk/rxscrapper/stargazers">
         <img src="https://img.shields.io/github/stars/Rxxsk/RXScrapper" width="120">
 </h1>
 
+|               Interfaz Principal                  |                     Settings panel SFTP                       |
+| :-----------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |
+| ![Home RXScraper](./img/image-30.png) | ![SFTP Settings](./img/image-21.png) |
+
 Interfaz Principal RxScrapper Pro Ventana de Configuración SFTP
-./screenshots/main_window.png ./screenshots/sftp_config.png
 
 Flujo de Trabajo con Datos Proceso de Transferencia Finalizada
-./screenshots/data_selection.png ./screenshots/transfer_complete.png
 
 # Main team
 
